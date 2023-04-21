@@ -2,4 +2,4 @@ Git is vcs
 maven is bulid tool for java
 jemkins is devops automation tool
 docker tool
-docker volumes and docker networks
+docker volumes and docker network
